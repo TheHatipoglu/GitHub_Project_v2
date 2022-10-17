@@ -9,7 +9,7 @@ public class Test_16 {
         - sayilardan sifira esit olan varsa “sifir carpmaya gore yutan elemandir” yazdirin.
          */
 
-
+        System.out.println(" hello");
 
     }
 }

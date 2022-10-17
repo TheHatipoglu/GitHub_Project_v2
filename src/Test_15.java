@@ -4,5 +4,8 @@ public class Test_15 {
 
         // Kullanicidan bir tamsayi isteyin ve sayinin tek veya cift oldugunu yazdirin
 
+        System.out.println("hello");
+
+
     }
 }
