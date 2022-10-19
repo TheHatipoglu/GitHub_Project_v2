@@ -14,7 +14,7 @@ public class Test_13 {
         - 54 Guzel
         - Java 94
          */
-
+        System.out.println("selam");
 
     }
 }
