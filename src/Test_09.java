@@ -14,6 +14,6 @@ public class Test_09 {
         - Java Guzel 54
         - Java 94
          */
-
+        System.out.println("merhaba ");
     }
 }
