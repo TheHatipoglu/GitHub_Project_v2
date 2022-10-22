@@ -4,5 +4,6 @@ public class Test_08 {
 
         // Kullanicidan haftanin kacinci gunu oldugunu sorun ve gun ismini yazdirin
 
+
     }
 }
