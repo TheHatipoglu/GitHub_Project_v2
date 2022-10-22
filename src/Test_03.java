@@ -5,7 +5,7 @@ public class Test_03 {
         Kullanicidan karenin bir kenar uzunlugunu alin ve karenin cevresini ve alanini hesaplayip
         yazdirin
          */
-
+        System.out.println("merhaba dostlar");
 
 
     }
