@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Test_07 {
     public static void main(String[] args) {
 
@@ -8,7 +10,13 @@ public class Test_07 {
 
 
          */
+       Scanner scan=new Scanner(System.in);
+        System.out.println("isim giriniz");
+       String str1= scan.next();
+        System.out.println("Soyad giriniz");
+        String str2 = scan.next();
 
-        System.out.println(" hello");
+        System.out.println(str1.charAt(0)+"."+str2.charAt(0));
+
     }
 }
